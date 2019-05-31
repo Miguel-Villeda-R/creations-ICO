@@ -35,7 +35,7 @@
   box-sizing: border-box; }
 
 html {
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Tangerine', serif;
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -50,7 +50,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Tangerine', serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -298,7 +298,7 @@ template {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   margin-bottom: 0.5rem;
-  font-family: inherit;
+  font-family: 'Tangerine', serif;
   font-weight: 500;
   line-height: 1.2;
   color: inherit; }
@@ -1983,7 +1983,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   user-select: none;
   border: 1px solid transparent;
   padding: 0.375rem 0.75rem;
-  font-size: 1rem;
+  font-size: 2rem;
   line-height: 1.5;
   border-radius: 0.25rem;
   -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
@@ -7263,9 +7263,9 @@ a.text-dark:hover, a.text-dark:focus {
     border: 1px solid #dee2e6 !important; } }
 
 body {
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: 'Tangerine', serif;
   background: #fff;
-  font-size: 16px;
+  font-size: 30px;
   line-height: 1.8;
   font-weight: 300;
   color: #8b8b92; }
@@ -7308,7 +7308,7 @@ h1, h2, h3, h4, h5,
   .ftco-navbar-light .navbar-brand {
     color: #fff; }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 16px;
+    font-size: 30px;
     padding-top: .9rem;
     padding-bottom: .9rem;
     padding-left: 20px;
@@ -7814,7 +7814,7 @@ h1, h2, h3, h4, h5,
       border-color: #ebfdf4 transparent transparent transparent; }
 
 .services .media-body h3 {
-  font-size: 20px; }
+  font-size: 30px; }
 
 .list-services {
   margin-top: 40px;
@@ -8007,7 +8007,7 @@ h1, h2, h3, h4, h5,
   height: 52px !important;
   background: #fff !important;
   color: #404044 !important;
-  font-size: 18px;
+  font-size: 30px;
   border-radius: 0px;
   -webkit-box-shadow: none !important;
   box-shadow: none !important; }
@@ -8109,7 +8109,7 @@ textarea.form-control {
   background: #3c312e; }
 
 .ftco-footer {
-  font-size: 16px;
+  font-size: 25px;
   background: #ee76ad;
   padding: 12em 0 8em 0; }
   .ftco-footer .ftco-footer-logo {
@@ -8119,7 +8119,7 @@ textarea.form-control {
     font-weight: normal;
     color: #fff;
     margin-bottom: 40px;
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400; }
   .ftco-footer .ftco-footer-widget ul li a span {
     color: #fff; }
@@ -8249,7 +8249,7 @@ textarea.form-control {
   color: rgba(255, 255, 255, 0.7); }
 
 .heading-section.heading-section-white h2 {
-  font-size: 40px;
+  font-size: 50px;
   color: #fff;
   font-weight: 700; }
 
@@ -8338,10 +8338,10 @@ textarea.form-control {
   padding: 10em 0; }
   .ftco-counter .text strong.number {
     font-weight: 400;
-    font-size: 40px;
+    font-size: 80px;
     color: #fff; }
   .ftco-counter .text span {
-    font-size: 20px;
+    font-size: 30px;
     color: rgba(255, 255, 255, 0.7); }
   @media (max-width: 767.98px) {
     .ftco-counter .counter-wrap {
@@ -8411,7 +8411,7 @@ textarea.form-control {
   .block-6 .icon span:before {
     font-size: 40px; }
   .block-6 .media-body p {
-    font-size: 16px; }
+    font-size: 25px; }
 
 .block-10 .chef-img {
   height: 400px; }
